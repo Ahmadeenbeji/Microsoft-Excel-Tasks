@@ -11,12 +11,19 @@
 ![](Assignment1.png)    | ![](Assignment2.png)                     |![](Assignment3.png)
 ---------------------------------------------------------------------------------------------------------
 
-## Analysisng the Finances of Sales Data 
-Hypothetical data analysis of Finances of "Company Y".
+## Analysing the Finances of Sales Data 
+Hypothetical data analysis of Finances of "Company Y". The analysis carried out on the finances of the company are itemised below:
+1. The total revenue and profit generated.
+2. The average revenue and units sold for every order
+3. The total discount
+4. Total number of sales recorded
+5. The highest profit generated
+6. The sales values above average were returned "High sales" while those values lower were returned "Low sales"
 
-              |     **Fourth Task**      |
-              :-------------------------:
-              |    ![](Assignment4.png)  |
+Fourth Task |
+:-----------|
+![](Assignment4.png)|
+
 
 
 
