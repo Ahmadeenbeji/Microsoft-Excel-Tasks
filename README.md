@@ -1,5 +1,5 @@
 # Microsoft-Excel-Tasks
-**_Disclaimer_**⚠️- All data used for this analysis are hypothetical data generated and do not represent any company's data or an attempt to endanger their performance.
+**_Disclaimer_** ⚠️- All data used for this analysis are hypothetical data generated and do not represent any company's data or an attempt to endanger their performance.
 ## Employee Details of "Company X"
 1. First task displays employees who are freelancers earning salary above $10,0000.
 2. Second task splits employees full name into first name and last name and checking for duplicate data.
