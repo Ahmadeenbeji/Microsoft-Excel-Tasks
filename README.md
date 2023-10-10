@@ -6,16 +6,17 @@
 3. Third task highlights employees with "E" as initials and also highlighting the highest earner(Green) and the lowest earner(Red).
 
 
-**First Task**              |           **Second Task**                    |                      **Third Task**
+**First Task**          |        **Second Task**                    |                      **Third Task**
 :----------------------:|:----------------------------------------:|:------------------------------------
 ![](Assignment1.png)    | ![](Assignment2.png)                     |![](Assignment3.png)
 ---------------------------------------------------------------------------------------------------------
 
 ## Analysisng the Finances of Sales Data 
 Hypothetical data analysis of Finances of "Company Y".
-                    **Fourth Task**
-              :--------------------------:
-              ![](
+
+              |     **Fourth Task**      |
+              :-------------------------:
+              |    ![](Assignment4.png)  |
 
 
 
