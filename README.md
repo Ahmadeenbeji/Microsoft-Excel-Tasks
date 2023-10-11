@@ -1,4 +1,6 @@
 # Microsoft-Excel-Tasks
+![](Excel.png)
+
 **_Disclaimer_** ⚠️- All data used for this analysis are hypothetical data generated and do not represent any company's data or an attempt to endanger their performance.
 ## Employee Details of "Company X"
 1. First task displays employees who are freelancers earning salary above $10,0000.
@@ -27,7 +29,8 @@ Fourth Task |
 ## Conclusion and Recommendation
 Conclusion and recommendation of the above analysis can be carried out ideally if there is a problem statement. The availabilty of problem statements gives the freedom to make suggestion, opinions, observe possible trends and also make inference based on the results obtained in the course of turning raw data into useful information.
 
-![](300)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ![](s300_thank_you_sticky_note.jpg)
 
 
 
