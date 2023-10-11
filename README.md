@@ -24,9 +24,10 @@ Fourth Task |
 :-----------|
 ![](Assignment4.png)|
 
-## Conclusion
+## Conclusion and Recommendation
+Conclusion and recommendation of the above analysis can be carried out ideally if there is a problem statement. The availabilty of problem statements gives the freedom to make suggestion, opinions, observe possible trends and also make inference based on the results obtained in the course of turning raw data into useful information.
 
-## Recommendation
+
 
 
 
